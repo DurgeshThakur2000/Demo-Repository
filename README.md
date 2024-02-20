@@ -1,4 +1,4 @@
 # Demo-Repository
 demo repository
 <br>
-Author- Durgesh Thakur
+Author- Durgesh Thakur(Thakbro)
